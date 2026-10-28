@@ -8,6 +8,9 @@ The Netflix Content Analysis Dashboard is an interactive data visualization proj
 
 The main objective of this project is to explore Netflix's content library and transform raw data into meaningful visual insights that support better understanding of content distribution and trends.
 
+📊 Dashboard Preview
+
+ 
 🛠️ Tools & Technologies
 
 - Microsoft Power BI – Dashboard development and data visualization
